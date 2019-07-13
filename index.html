@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+	<head>
+	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+	    <meta name="viewport" content="user-scalable = yes">
+
+	    <title>Royal Constellations</title>
+	    <meta name="author" content="Nadieh Bremer">
+	    <meta name="description" content="Data Sketches - October - Presidents & Royals - Nadieh">
+	    <meta property="og:type" content="website" />
+	    <meta property="og:image" content="img/royal_constellations.png"/>  
+	    <meta name="keywords" content="data, visualization, visualisation, data visualization, data visualisation, information, information visualization, information visualisation, dataviz, datavis, infoviz, infovis, collaboration, data art">
+		
+		<!-- Styling -->
+		<link href="css/style.css" rel="stylesheet">
+
+		<!-- Google fonts -->
+		<link href="https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Muli:300,400" rel="stylesheet">
+		
+		<!-- JavaScript files -->
+		<script src="../../../plugins/d3.min.js"></script>
+		<script src="js/createLegend.js"></script>
+		<script src="js/mouseEvents.js"></script>
+		<script src="js/clickEvents.js"></script>
+		<script src="js/shortestPathCalculator.js"></script>
+		<script>/*Fixing iframe window.innerHeight 0 issue in Safari*/document.body.clientHeight;</script>
+		<script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.g2-3.5.1/dist/g2.min.js"></script>
+		<script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.data-set-0.10.1/dist/data-set.min.js"></script>
+		<script src="https://gw.alipayobjects.com/os/antv/assets/lib/jquery-3.2.1.min.js"></script>
+		
+	</head>
+	<body>
+		
+		<div id="top-intro">
+			<div id="top-title">亲爱的小孩，今天有没有哭</div>
+			<div id="intro-title">
+				<div id="top-subtitle">在中国，侵害未成年人犯罪的成本有多低?</div>
+				<div id="top-shortest-path">
+					<h6>近年来侵害未成年人的犯罪案件确有逐年增多的趋势</h6>
+					<p>新城控股董事长猥亵9岁女童案引起的舆论热潮还没消却，杭州女童失踪事件又让人们揪心。从“红黄蓝幼儿园虐童事件”、“携程亲子园虐童事件”到 “4.27榆林米脂砍学生事件”，近年来，对未成年人特别是幼童的侵害行为，频繁出现在公众视野。</p>
+				</div>
+				<div id="legend"></div>
+			</div>
+			<div id="intro-text">
+				<div id="top-explanation">
+					<img src="./img/evils.png" alt="" width="120%">
+				</div>
+			</div>
+		</div>
+
+		<div id="evil-chart"></div>
+
+
+		</div>
+
+				<!-- <script src="js/main.js"></script> -->
+				<script src="js/createChart.js"></script>
+        
+        <!-- Google analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-43942889-3', 'auto');
+            ga('set', 'anonymizeIp', true);
+            ga('send', 'pageview');
+        </script>
+		
+	</body>
+</html>
