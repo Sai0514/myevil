@@ -2,9 +2,9 @@ $.getJSON('/myevil/data/evil-test.json', function(data) {
     var chart = new G2.Chart({
         container: 'evil-chart',
         forceFit: true,
-        width: window.innerWidth / 2,
-        height: window.innerHeight / 2,
-        padding: [10, 80, 90, 160],
+        width: window.innerWidth,
+        height: 880,
+        // padding: [40, 80, 40, 20],
     });
     chart.source(data);
     chart.tooltip({
@@ -12,11 +12,16 @@ $.getJSON('/myevil/data/evil-test.json', function(data) {
             type: 'cross'
         }
     });
+
     chart.legend({
+        position: 'left-top',
+        offsetX: 100,
         reversed: true // 图例项逆序显示
     });
+    // y轴坐标文本不显示
     chart.axis('Score', {
-        grid: null
+        grid: null,
+        label: false
     });
     // x轴的栅格线居中
     chart.axis('Class', {
@@ -36,6 +41,6 @@ $.getJSON('/myevil/data/evil-test.json', function(data) {
             }
         }
     });
-    chart.point().position('Class*Score').color('Grade').adjust('jitter').shape('circle').opacity(0.65).size(10);
+    chart.point().position('Class*Score').color('Grade').adjust('jitter').shape('circle').opacity(0.65).size(3);
     chart.render();
 });

@@ -1,73 +1,136 @@
 <!DOCTYPE html>
-	<head>
-	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
-	    <meta name="viewport" content="user-scalable = yes">
 
-	    <title>Royal Constellations</title>
-	    <meta name="author" content="Nadieh Bremer">
-	    <meta name="description" content="Data Sketches - October - Presidents & Royals - Nadieh">
-	    <meta property="og:type" content="website" />
-	    <meta property="og:image" content="img/royal_constellations.png"/>  
-	    <meta name="keywords" content="data, visualization, visualisation, data visualization, data visualisation, information, information visualization, information visualisation, dataviz, datavis, infoviz, infovis, collaboration, data art">
-		
-		<!-- Styling -->
-		<link href="css/style.css" rel="stylesheet">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <meta name="viewport" content="user-scalable = yes">
 
-		<!-- Google fonts -->
-		<link href="https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Muli:300,400" rel="stylesheet">
-		
-		<!-- JavaScript files -->
-		<script src="../../../plugins/d3.min.js"></script>
-		<script src="js/createLegend.js"></script>
-		<script src="js/mouseEvents.js"></script>
-		<script src="js/clickEvents.js"></script>
-		<script src="js/shortestPathCalculator.js"></script>
-		<script>/*Fixing iframe window.innerHeight 0 issue in Safari*/document.body.clientHeight;</script>
-		<script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.g2-3.5.1/dist/g2.min.js"></script>
-		<script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.data-set-0.10.1/dist/data-set.min.js"></script>
-		<script src="https://gw.alipayobjects.com/os/antv/assets/lib/jquery-3.2.1.min.js"></script>
-		
-	</head>
-	<body>
-		
-		<div id="top-intro">
-			<div id="top-title">亲爱的小孩，今天有没有哭</div>
-			<div id="intro-title">
-				<div id="top-subtitle">在中国，侵害未成年人犯罪的成本有多低?</div>
-				<div id="top-shortest-path">
-					<h6>近年来侵害未成年人的犯罪案件确有逐年增多的趋势</h6>
-					<p>新城控股董事长猥亵9岁女童案引起的舆论热潮还没消却，杭州女童失踪事件又让人们揪心。从“红黄蓝幼儿园虐童事件”、“携程亲子园虐童事件”到 “4.27榆林米脂砍学生事件”，近年来，对未成年人特别是幼童的侵害行为，频繁出现在公众视野。</p>
-				</div>
-				<div id="legend"></div>
-			</div>
-			<div id="intro-text">
-				<div id="top-explanation">
-					<img src="./img/evils.png" alt="" width="120%">
-				</div>
-			</div>
-		</div>
+    <title>在中国，侵害未成年人犯罪的成本有多低</title>
+    <meta name="author" content="Nadieh Bremer">
+    <meta name="description" content="Data Sketches - October - Presidents & Royals - Nadieh">
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="img/royal_constellations.png" />
+    <meta name="keywords" content="data, visualization, visualisation, data visualization, data visualisation, information, information visualization, information visualisation, dataviz, datavis, infoviz, infovis, collaboration, data art">
 
-		<div id="evil-chart"></div>
+    <!-- Styling -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Muli:300,400" rel="stylesheet">
+
+    <!-- JavaScript files -->
+    <!-- <script src="../../plugins/d3.min.js"></script> -->
+    <script src="../../plugins/echarts.min.js"></script>
+    <script src="js/createLegend.js"></script>
+    <script src="js/mouseEvents.js"></script>
+    <script src="js/clickEvents.js"></script>
+    <script src="js/shortestPathCalculator.js"></script>
+    <script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.g2-3.5.1/dist/g2.min.js"></script>
+    <script src="https://gw.alipayobjects.com/os/antv/pkg/_antv.data-set-0.10.1/dist/data-set.min.js"></script>
+    <script src="https://gw.alipayobjects.com/os/antv/assets/lib/jquery-3.2.1.min.js"></script>
+
+</head>
+
+<body>
+
+    <div id="top-intro">
+        <div id="top-title">在中国，侵害未成年人犯罪的成本有多低</div>
+        <div id="intro-title">
+            <div id="top-subtitle"></div>
+            <div id="top-shortest-path">
+                <p>7月7日，杭州女童章子欣被租客带走后失联，5天后，她的遗体在象山松兰山景区海里被发现。</p>
+                <p>7月10日，新城控股董事长因涉嫌猥亵女童被批捕，被猥亵的女孩只有9岁。</p>
+                <p>近年来，对未成年人尤其是幼童的侵害事件频繁出现在媒体报道中，引起公众的关切。这些被媒体曝光的事件只是侵害未成年人犯罪的冰山一角，最高人民检察院自2015年开始，统计每年批捕的侵害未成年人犯罪嫌疑人数量，而这个数字正在逐年攀升。</p>
+            </div>
+            <div id="legend"></div>
+        </div>
+        <div id="intro-text">
+            <div id="top-explanation">
+                <img src="./img/evils.png" alt="" width="120%">
+            </div>
+        </div>
+    </div>
+
+    <div id="type-chart">
+        <div id="pie-chart" style="width:750px;height:520px;"></div>
+        <div id="pie-chart-text">
+            <p>根据公开的法院判决书，在我国刑法规定的涉及侵害未成年人人身权利的12种罪行中，案例最多的是猥亵儿童罪和强奸罪。 这些犯罪者们会受到怎样的惩罚？</p>
+            <p>按照刑法规定，强奸罪的量刑是情节严重程度分为四种：</p>
+            <ul>
+                <li>（1）三年以上十年以下有期徒刑</li>
+                <li>（2）十年以上有期徒刑</li>
+                <li>（3）无期徒刑</li>
+                <li>（4）死刑猥亵儿童罪处五年以下有期徒刑或拘役，聚众或在公共场所当众犯罪者处五年以上有期徒刑。</li>
+            </ul>
+            <p>实际判决中情况如何呢？</p>
+            <p>从来自全国法院依法公开的判例中，我们在openlaw上以“强奸罪+未成年人”、“猥亵儿童罪”为关键词，抽取了这两种罪行各1000份案例。在下图中你可以看到每一个案例的判决年份和刑期。</p>
+        </div>
+    </div>
+
+    <div id="mid-chart">
+        <div class="evil-chart-title">
+            <p>近十年强奸罪与猥亵儿童罪的量刑分布情况</p>
+        </div>
+        <div id="evil-chart"></div>
+        <div class="evil-chart-source"><i>(*数据来源：openLaw）</i></div>
+    </div>
+
+    <div class="mid-chart-text">
+        <p>纵观2010至2019年的公开判决书，涉及未成年人的强奸罪与猥亵儿童罪案例明显增多，但涉及未成年人的强奸罪实际量刑大部分在有期徒刑3-5年左右徘徊，猥亵儿童罪的量刑则集中在有期徒刑2-3年。法律规定中“涉及未成年人的案件从重判决”的原则在此看来似乎并不明显。这样的量刑与社会大众的期待显然存在差距。全国人大代表、中华全国妇女联合会副主席谭琳在2018年两会的黑龙江团全体会议上就提出，“性侵儿童案件的当事人及家属普遍认为量刑较轻，不足以惩处和震慑罪犯，这也是人民群众反映强烈的问题”。</p>
+    </div>
+
+    <div id="map-chart">
+        <div class="map-chart-img">
+            <img src="./img/map.png" style=" width: 1200px;">
+        </div>
+        <div class="map-chart-text">
+            <p>中国法律对侵害未成年人行为的打击力度是否需要提升？</p>
+            <p>能否实现罪行与量刑相适应是一方面的因素，同时也需要在更广泛的层面横向对比其他国家的法律规定。 </p>
+            <p>总的来说，世界上的主要国家虽然制度和思想存在很大差别，但它们对侵害（尤其是性侵害）未成年人的行为都毫不留情。不过，在一些具体领域，一些国家的规定可作他山之石参照。 例如，中国法律不将未成年男性算作强奸罪的对象，部分针对男童的性质上接近强奸的行为只能按猥亵处理。而在一些国家，未成年男性也会成为强奸罪的犯罪对象。还有一些国家对性侵害未成年人的行为施以极重的刑罚，并将受害孩子的年龄加以区分。 熟人作案在中国性侵未成年人的案件中占据很大比重，英国、德国等国家就注重对利用职务进行侵害的限制和打击，严明监护人的责任。日本保护青少年的法律已经形成一个较为完善的体系，层次分明。
+            </p>
+        </div>
+    </div>
 
 
-		</div>
+    <div class="footer">
+        <div class="footer-wrapper">
+            <p>作者：郑璇真 李曜宇 黎若楠</p>
+            <p>指导老师：黄志敏 方洁 苏颢云 霍默静 陈皓</p>
+            <p>联系方式：https://github.com/Sai0514</p>
+            <p>数据来源：</p>
+            <ul>
+                <li>中华人民共和国最高人民检察院</li>
+                <li>中国裁判文书网</li>
+                <li>OpenLaw</li>
+                <li>无讼案例网</li>
+            </ul>
+        </div>
+    </div>
 
-				<!-- <script src="js/main.js"></script> -->
-				<script src="js/createChart.js"></script>
-        
-        <!-- Google analytics -->
-        <script>
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <!-- <script src="js/main.js"></script> -->
+    <script src="js/createChart.js"></script>
+    <script src="js/createType.js"></script>
 
-            ga('create', 'UA-43942889-3', 'auto');
-            ga('set', 'anonymizeIp', true);
-            ga('send', 'pageview');
-        </script>
-		
-	</body>
+    <!-- Google analytics -->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-43942889-3', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+    </script>
+
+</body>
+
 </html>

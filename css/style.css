@@ -1,49 +1,52 @@
 body {
-	background-color: #101420;
-	font-family: 'Muli', sans-serif;
-	color: #a8a394;
+    background-color: #101420;
+    font-family: 'Muli', sans-serif;
+    color: #a8a394;
 }
 
 #top-intro {
-	width: 1200px;
-	margin: 0 auto;
-	padding-left: 30px;
+    width: 1200px;
+    margin: 0 auto;
+    padding-left: 30px;
 }
 
 #top-title {
-	font-size: 44px;
-	color: #f6f4ef;
-	font-family: 'IM Fell DW Pica', serif;
-	margin-bottom: -12px;
-	margin-top: 20px;
+    font-size: 44px;
+    color: #f6f4ef;
+    font-family: 'IM Fell DW Pica', serif;
+    margin-bottom: -12px;
+    margin-top: 20px;
 }
 
 #intro-title {
-	width: 44%;
-	display: inline-block;
+    width: 45%;
+    display: inline-block;
+    margin-top: 40px;
 }
+
 #top-subtitle {
-	font-size: 18px;
-	font-weight: 300;
-	margin-top: 15px;
-	line-height: 150%;
-	padding-bottom: 35px;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 15px;
+    line-height: 150%;
+    padding-bottom: 35px;
 }
 
 #legend {
-	margin-left: 20px;
+    margin-left: 20px;
 }
 
-#top-shortest-path { 
-	margin-top: 24px;
+#top-shortest-path {
+    margin-top: 24px;
 }
+
 #top-shortest-path p {
-	font-size: 13px;
-	text-align: justify;
-	line-height: 160%;
-	color: #777777;
-	text-indent: 2em;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: justify;
+    color: #777777;
 }
+
 #top-shortest-path h3 {
     font-size: 16px;
     color: #c9c6c0;
@@ -52,19 +55,22 @@ body {
 }
 
 #intro-text {
-	width: 46%;
-	display: inline-block;
-	padding-left: 50px;
-	padding-right: 0px;
-	vertical-align: top;
+    width: 46%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 0px;
+    margin-top: 50px;
 }
+
 #top-explanation {
-	font-size: 12px;
-	text-align: justify;
+    font-size: 12px;
+    text-align: justify;
 }
 
 #top-chrome-note {
-	font-size: 17px;
+    font-size: 17px;
     color: #f6f4ef;
     text-align: center;
     margin-top: 20px;
@@ -72,35 +78,39 @@ body {
 }
 
 #royal-chart {
-	text-align: center;
-	position: relative;
+    text-align: center;
+    position: relative;
 }
 
 #royal-chart canvas {
-	position: absolute;
-	top: 0;
-	pointer-events: none;
-	z-index: -1;
+    position: absolute;
+    top: 0;
+    pointer-events: none;
+    z-index: -1;
 }
 
 #royal-chart svg {
-	z-index: 2;
+    z-index: 2;
 }
 
 #credit {
-	font-family: 'IM Fell DW Pica', serif;
-	margin-top: 30px;
-	margin-bottom: 30px;
-	font-size: 12px;
-	margin-left: 130px;
-	line-height: 150%;
+    font-family: 'IM Fell DW Pica', serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 12px;
+    margin-left: 130px;
+    line-height: 150%;
 }
 
-a, a:link, a:visited, a:active {
+a,
+a:link,
+a:visited,
+a:active {
     color: #ddece9;
     border-bottom: 1px dotted rgba(231, 228, 202, .5);
     text-decoration: none;
 }
+
 
 /* --- Legend --- */
 
@@ -108,123 +118,214 @@ a, a:link, a:visited, a:active {
 .legend-link-text,
 .legend-color-text,
 .legend-color-value {
-	font-size: 12px;
-	fill: #c9c6c0;
-	font-family: 'IM Fell DW Pica', serif;
+    font-size: 12px;
+    fill: #c9c6c0;
+    font-family: 'IM Fell DW Pica', serif;
 }
+
 .legend-link-text,
 .legend-color-text {
-	text-anchor: middle;
+    text-anchor: middle;
 }
+
 .legend-color-value {
-	font-size: 15px;
+    font-size: 15px;
 }
 
 .legend-color-path {
-	fill: none;
-	stroke-linecap: round;
+    fill: none;
+    stroke-linecap: round;
 }
+
+
 /* --- Titles --- */
 
 .royal-name {
-	text-anchor: middle;
-	font-size: 16px;
-	fill: #c9c6c0;
-	font-family: 'IM Fell DW Pica', serif;
+    text-anchor: middle;
+    font-size: 16px;
+    fill: #c9c6c0;
+    font-family: 'IM Fell DW Pica', serif;
 }
 
 .interesting-royal-name {
-	font-size: 11px;
-	pointer-events: none;
-	font-family: 'IM Fell DW Pica', serif;
+    font-size: 11px;
+    pointer-events: none;
+    font-family: 'IM Fell DW Pica', serif;
 }
 
 .royal-country {
-	text-anchor: middle;
-	font-size: 11px;
-	fill: #7e7b72;
+    text-anchor: middle;
+    font-size: 11px;
+    fill: #7e7b72;
 }
 
 .birth-year-label {
-	text-anchor: end;
-	font-size: 12px;
-	fill: #7e7b72;
+    text-anchor: end;
+    font-size: 12px;
+    fill: #7e7b72;
 }
+
 
 /* --- Hovering --- */
 
 .hoverRect {
-	fill: none;
-	pointer-events: all;
+    fill: none;
+    pointer-events: all;
 }
+
 
 /* --- Tooltip --- */
 
 .tooltip-wrapper {
-	font-size: 11px;
-	pointer-events: none;
-	text-anchor: middle;
-	text-shadow: 0 1px 4px #101420, 1px 0 4px #101420, -1px 0 4px #101420, 0 -1px 4px #101420
+    font-size: 11px;
+    pointer-events: none;
+    text-anchor: middle;
+    text-shadow: 0 1px 4px #101420, 1px 0 4px #101420, -1px 0 4px #101420, 0 -1px 4px #101420
 }
 
 .tooltip-name {
-	font-size: 14px;
-	font-family: 'IM Fell DW Pica', serif;
-	fill: #c9c6c0;
+    font-size: 14px;
+    font-family: 'IM Fell DW Pica', serif;
+    fill: #c9c6c0;
 }
 
 .tooltip-title {
-	font-size: 11px;
-	fill: #7e7b72;
+    font-size: 11px;
+    fill: #7e7b72;
 }
 
 .tooltip-extra-info {
-	font-size: 11px;
-	fill: #7e7b72;
+    font-size: 11px;
+    fill: #7e7b72;
 }
+
 
 /* --- Axes --- */
 
 .axis {
-	font-family: inherit;
+    font-family: inherit;
 }
-.axis line, .axis path {
-	stroke: none;
+
+.axis line,
+.axis path {
+    stroke: none;
 }
+
 .axis text {
-	fill: #d2d2d2;
-	font-size: 18px;
-	font-family: 'IM Fell DW Pica', serif;
+    fill: #d2d2d2;
+    font-size: 18px;
+    font-family: 'IM Fell DW Pica', serif;
 }
+
 
 /* --- Network --- */
 
-.link, .link-path-legend {
-  stroke: #d4d4d4;
-  fill: none;
-  opacity: 0.6;
-  stroke-width: 1.5px;
-  pointer-events: none;
+.link,
+.link-path-legend {
+    stroke: #d4d4d4;
+    fill: none;
+    opacity: 0.6;
+    stroke-width: 1.5px;
+    pointer-events: none;
 }
 
 .link-couple {
-	stroke-dasharray: 5,5;
+    stroke-dasharray: 5, 5;
 }
 
 .node {
-  opacity: 0.8;
-  pointer-events: none;
+    opacity: 0.8;
+    pointer-events: none;
 }
+
+#mid-chart {
+    position: relative;
+    margin: 0 auto;
+}
+
+.mid-chart-text {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.mid-chart-text p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #777777;
+}
+
+.evil-chart-title {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    top: 0;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    line-height: 2;
+    margin-top: 20px;
+}
+
+.evil-chart-source {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    margin-bottom: -10px;
+}
+
+#type-chart {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+#pie-chart-text {
+    width: 54%;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#pie-chart-text p,
+li {
+    width: 90%;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: justify;
+    color: #777777;
+}
+
+#map-chart {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#map-chart .map-chart-text {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#map-chart .map-chart-text p {
+    font-size: 14px;
+    line-height: 160%;
+    text-align: justify;
+    color: #777777;
+}
+
 
 /* --- Pulsing --- */
 
-.node-pulse, .node-pulse-legend {
-	fill: none;
-	pointer-events: none;
+.node-pulse,
+.node-pulse-legend {
+    fill: none;
+    pointer-events: none;
 }
 
 .pulse {
-/*  animation: pulse 2s ease infinite;
+    /*  animation: pulse 2s ease infinite;
   -webkit-animation: pulse 2s ease infinite;
   animation: pulse pulse 2s ease infinite;
   -webkit-animation-iteration-count: infinite;
@@ -232,34 +333,35 @@ a, a:link, a:visited, a:active {
 }
 
 @keyframes pulse {
-  0% {
-    transform: scale(1);
-    transform-origin: center center;
-    stroke-width: 3px;
-    stroke-opacity: 1;
-  }
-  100% {
-    transform: scale(2.5);
-    transform-origin: center center;
-    stroke-width: 1px;
-    stroke-opacity: 0;
-  }
+    0% {
+        transform: scale(1);
+        transform-origin: center center;
+        stroke-width: 3px;
+        stroke-opacity: 1;
+    }
+    100% {
+        transform: scale(2.5);
+        transform-origin: center center;
+        stroke-width: 1px;
+        stroke-opacity: 0;
+    }
 }
 
 @-webkit-keyframes "pulse" {
- 0% {
-    -webkit-transform: scale(1);
-    transform-origin: center center;
-    stroke-width: 3px;
-    stroke-opacity: 1;
- }
- 100% {
-    -webkit-transform: scale(2.5);
-    transform-origin: center center;
-    stroke-width: 1px;
-    stroke-opacity: 0.0;
- }
+    0% {
+        -webkit-transform: scale(1);
+        transform-origin: center center;
+        stroke-width: 3px;
+        stroke-opacity: 1;
+    }
+    100% {
+        -webkit-transform: scale(2.5);
+        transform-origin: center center;
+        stroke-width: 1px;
+        stroke-opacity: 0.0;
+    }
 }
+
 
 /* --- Rotating --- */
 
@@ -269,9 +371,8 @@ a, a:link, a:visited, a:active {
     stroke-width: 3px;
     stroke-linecap: round;
     stroke-opacity: 0.75;
-    stroke-dasharray: 0,5;
+    stroke-dasharray: 0, 5;
     pointer-events: none;
-
     animation-duration: 1s;
     animation-name: changedash;
     animation-iteration-count: infinite;
@@ -279,9 +380,44 @@ a, a:link, a:visited, a:active {
     animation-timing-function: linear;
 }
 
-
 @keyframes changedash {
-    from { stroke-dashoffset: 5px; }
-    to { stroke-dashoffset: 0px; }
+    from {
+        stroke-dashoffset: 5px;
+    }
+    to {
+        stroke-dashoffset: 0px;
+    }
 }
 
+
+/* --- footer --- */
+
+.footer {
+    width: 100%;
+    height: 275px;
+    background-color: rgba(0, 0, 0, .3);
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-wrapper {
+    width: 325px;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+ul,
+li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer-wrapper p,
+ul,
+li {
+    font-size: 14px;
+    line-height: 160%;
+    color: #777;
+}
