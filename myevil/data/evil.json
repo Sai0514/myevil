@@ -1,772 +1,8291 @@
-[
-  {
-    "Class": "Summer 2013",
-    "Grade": "C",
-    "Score": 72.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "C",
-    "Score": 77.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "B",
-    "Score": 87.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 91
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 91.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 90.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 90.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 90.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 98.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 94.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 98.5
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 95
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 97
-  },
-  {
-    "Class": "Summer 2013",
-    "Grade": "A",
-    "Score": 98
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 69
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 52.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 67
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 62
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 68
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 69
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 73
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 70.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 76
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 71
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 79.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 72
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 70.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 79.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 78.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 71
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 75
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 78.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 76
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 77.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 75
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 79.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 71
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "C",
-    "Score": 75.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 87.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 88.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 89.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 87
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 89.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 88
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 81
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 80
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 80.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 82.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 80
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 82
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 81
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 83.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 86
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 83.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 85.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 86
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 86
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 85
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 83
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 83.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "B",
-    "Score": 83.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 90.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 92.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 92.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 91.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 92.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 90
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 90
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 92
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 91.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 92.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 98.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 95
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 94
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 93
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 99
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 95
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 97
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 100
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 97.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 96
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 96
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 93.5
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 98
-  },
-  {
-    "Class": "Spring 2013",
-    "Grade": "A",
-    "Score": 93
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 67.2
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 71.8
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 73.4
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 71.1
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 77.4
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 78.3
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 76.8
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 71.1
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 79.9
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 74.9
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 78.4
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 75.2
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 77.7
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 71.8
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "C",
-    "Score": 78
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 87.4
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 88
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 87.7
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 88.5
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 87.4
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 89.9
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 89.9
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 81.1
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 80.5
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 81.1
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 83
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 85.5
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 84.3
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "B",
-    "Score": 86.8
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 90.5
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 91.1
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 90
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 90.5
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 90.2
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 92.6
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 96.8
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 99.3
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 99.3
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 94.9
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 93.6
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 95.5
-  },
-  {
-    "Class": "Spring 2012",
-    "Grade": "A",
-    "Score": 103
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "C",
-    "Score": 69
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "C",
-    "Score": 66.1
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "C",
-    "Score": 44.8
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "C",
-    "Score": 75.2
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "C",
-    "Score": 78
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "C",
-    "Score": 71
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 87.5
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 88.1
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 81.5
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 80.3
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 85
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 83.5
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 86.8
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "B",
-    "Score": 84
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 91.2
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 90.9
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 90
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 92
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 93.9
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 97.5
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 97.5
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 94.2
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 94.7
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 97
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 99.5
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 98.5
-  },
-  {
-    "Class": "Fall 2013",
-    "Grade": "A",
-    "Score": 99
-  }
+[{
+        "Class": "2009",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2009",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.75"
+    }, {
+        "Class": "2010",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    }, {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2010",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2010",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+
+    {
+        "Class": "2010",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    }, {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.33"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2009",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2009",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2010",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.33"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.33"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.08"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.33"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.17"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.17"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.42"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.42"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2009",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2009",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.33"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.08"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.33"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.08"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.33"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.25"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.33"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "10.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "10.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2010",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2011",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.08"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.67"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2012",
+        "Grade": "猥亵儿童罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.58"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.08"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "4.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "猥亵儿童罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "猥亵儿童罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "猥亵儿童罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2013",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2010",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "12.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "3.58"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2013",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2013",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2013",
+        "Grade": "强奸罪",
+        "Score": "3.75"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "5.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2012",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "2.17"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "12.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2.92"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.92"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "12.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.92"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "3.58"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "12.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2013",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2.92"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "12.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "12"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "15"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "18"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "13"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "8.58"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.92"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.58"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.08"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.08"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "14"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "1.42"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2013",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.92"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.92"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "15.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.67"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "5.67"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.08"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "11"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "12"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "11"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "11"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.92"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8.75"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "11"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10.42"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.42"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "17.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.25"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "15"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.33"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "0.92"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "11"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "9.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "12"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "8.25"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "11.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4.83"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7.17"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "7.17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "12"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.58"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "6.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "6.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.42"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.92"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.08"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "11"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.92"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "14"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "15"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "17"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "15"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "9"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.92"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.67"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.33"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2010",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.58"
+    },
+    {
+        "Class": "2013",
+        "Grade": "强奸罪",
+        "Score": "6.25"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "2.25"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.92"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.92"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.17"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "4.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "3.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.33"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "15"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "15"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "12"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "4.42"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "13.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "17.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4.5"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "1.25"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "10"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "8.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7.25"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "1.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "7.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2016",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2014",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2015",
+        "Grade": "强奸罪",
+        "Score": "0.83"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.75"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "10.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "4"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "12"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "6"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "0.58"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.67"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "1.17"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2019",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.08"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "7"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "1.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.5"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "3.25"
+    },
+    {
+        "Class": "2017",
+        "Grade": "强奸罪",
+        "Score": "0.5"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.33"
+    },
+    {
+        "Class": "2018",
+        "Grade": "强奸罪",
+        "Score": "2.5"
+    }
 ]

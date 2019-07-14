@@ -1,4 +1,4 @@
-$.getJSON('/myevil/data/evil-test.json', function(data) {
+$.getJSON('/myevil/data/evil.json', function(data) {
     var chart = new G2.Chart({
         container: 'evil-chart',
         forceFit: true,
