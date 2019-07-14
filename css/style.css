@@ -299,16 +299,18 @@ li {
 }
 
 #map-chart {
-    width: 1200px;
+    width: 1400px;
+    padding: 0;
     margin: 0 auto;
 }
 
 #map-chart-img {
-    width: 1400px;
+    padding: 0;
+    margin: 0 auto;
 }
 
 #map-chart .map-chart-text {
-    width: 90%;
+    width: 80%;
     margin: 0 auto;
 }
 
